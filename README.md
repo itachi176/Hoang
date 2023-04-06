@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Le Minh Hoang
 - 👀 I’m interested in ComputerVision
-- :school: I'm a final year student at VNU University of Engineering and Technology 
+- :school: I graduated from VNU University of Engineering and Technology 
 - 📫 How to reach me: lhoang17062000@gmail.com
 <!---
 HenryLe176/HenryLe176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
